@@ -59,4 +59,4 @@ If you are building in this space  -  feel free to reach out on X or Telegram.
 
 > Still early in public repos, but slowly moving more work into the open.
 
-![Yuriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fijimlk&show_icons=true&theme=transparent)
+![Yuriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fijimlk777&show_icons=true&theme=transparent)
